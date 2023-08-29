@@ -6,6 +6,7 @@ import java.sql.SQLException;
 
 public class Conexion {
     public static Connection miconexion;
+    // metodo de conexion a la base de datos
 
     public static Connection establecerConexion() {
 
